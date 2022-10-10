@@ -1,0 +1,8 @@
+{
+  "name": "extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZSBRybnik/extension",
+  "author": "KrzysztofZawisla <zawislakrzysztof.zk@gmail.com>",
+  "license": "MIT"
+}
